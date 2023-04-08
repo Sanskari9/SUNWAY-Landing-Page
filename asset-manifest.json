@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SUNWAY-Landing-Page/static/css/main.1b82a7c0.css",
+    "main.js": "/SUNWAY-Landing-Page/static/js/main.527d9382.js",
+    "index.html": "/SUNWAY-Landing-Page/index.html",
+    "main.1b82a7c0.css.map": "/SUNWAY-Landing-Page/static/css/main.1b82a7c0.css.map",
+    "main.527d9382.js.map": "/SUNWAY-Landing-Page/static/js/main.527d9382.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b82a7c0.css",
+    "static/js/main.527d9382.js"
+  ]
+}
